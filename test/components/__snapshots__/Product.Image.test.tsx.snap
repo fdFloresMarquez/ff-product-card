@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Image should render without crashing productImage 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product image"
+    className="productImg undefined"
+    src="CoffeeMug"
+  />
+</div>
+`;
+
+exports[`Product Image should render without crashing with a custom image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product image"
+    className="productImg undefined"
+    src="https://hola.com"
+  />
+</div>
+`;
