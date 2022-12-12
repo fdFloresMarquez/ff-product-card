@@ -13,7 +13,7 @@
   },
   "homepage": "https://floresfacundo.dev.ar/",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=10"
   },
   "scripts": {
     "start": "tsdx watch",
