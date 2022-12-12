@@ -1,5 +1,5 @@
-const postcss = require('rollup-plugin-postcss');
-const images = require('@rollup/plugin-image');
+import postcss from 'rollup-plugin-postcss';
+import images from '@rollup/plugin-image';
 
 module.exports = {
   rollup(config, options) {
